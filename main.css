@@ -1,0 +1,57 @@
+#map-container {
+    height: 100%;
+    margin: 0px;
+}
+
+div.content {
+margin-left: 200px;
+padding: 1px 16px;
+height: 1000px;
+}
+
+.fa-caret-down {
+    padding-left: 8px;
+}
+
+.nav li {
+    width: 100%;
+    display: block;
+}
+
+.nav li a.sidebar-links {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.nav li a.sidebar-links:hover {
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.6) !important;
+    color: #222222 !important;
+}
+.nav li a.sidebar-links.active {
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.3) !important;
+    color: #222222 !important;
+}
+
+#sidebar header {
+    display: block;
+    padding: 10px 0px;
+}
+
+#location-selector select, #location-selector select option {
+    display: block;
+    border: 0px;
+    border-radius: 0px;
+}
+
+#windy {
+    width: 100%;
+    height: 100%;
+}
+
+#windy #logo-wrapper {
+    display: none;
+}
