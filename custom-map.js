@@ -1,6 +1,6 @@
 window.map = L.map('map-container', {
-	center: [-22.937913, -43.285081], 
-	zoom: 14
+	center: [-22.821841, -43.385654], 
+	zoom: 17
 })
 
 async function setupMap(wms_layer){
@@ -44,7 +44,8 @@ function init_map(){
 		
 		setupMap('mosaic_rio_colored')
 		load_towers("data/rio_towers.kml")
-		load_lines("data/rio_paths.kml")
+    load_lines("data/rio_paths.kml")
+    load_ndvi_layer("data/rio_ndvi")
 	} catch(err) {
 		console.error(err);
 	}
@@ -76,6 +77,7 @@ $(document).ready(function () {
 		load_lines(DATA_MAPPING[selected_city].lines_path);
 		center = DATA_MAPPING[selected_city].center
 		map.panTo(new L.LatLng(center[0], center[1]));
+		load_ndvi_layer( DATA_MAPPING[selected_city].ndvi)
     });
 })
 
@@ -91,17 +93,17 @@ const WMS_CONFIG = Object.freeze({
 	rio: {
 		url: 'http://13.229.218.89:8080/geoserver/cite/wms?service=WMS&version=1.1.0&request=GetMap',
 		layers: 'mosaic_rio_colored',
-		center: [-22.937913, -43.285081]
+		center: [-22.821841, -43.385654]
 	},
 	mumbai: {
 		url: 'http://13.229.218.89:8080/geoserver/cite/wms?service=WMS&version=1.1.0&request=GetMap',
 		layers: 'mumbai_pyramid',
-		center: [19.038793, 72.870426]
+		center: [19.024574, 72.880217]
 	},
 	khartoum: {
 		url: 'http://13.229.218.89:8080/geoserver/cite/wms?service=WMS&version=1.1.0&request=GetMap',
-		layers: 'khartoum',
-		center: [19.038793, 72.870426]
+		layers: 'khartoum_pyramid',
+		center: [15.577579, 32.508255]
 	},
 });
 
@@ -111,7 +113,8 @@ const DATA_MAPPING = ['rio', 'mumbai', 'khartoum'].reduce((mapping, name) => {
 		lines_path: `data/${name}_paths.kml`,
 		center: WMS_CONFIG[name].center,
 		wms_server: WMS_CONFIG[name].url,
-		wms_layer: WMS_CONFIG[name].layers
+		wms_layer: WMS_CONFIG[name].layers,
+		ndvi: `data/${name}_ndvi`
 	};
 
 	return mapping;
@@ -192,6 +195,47 @@ function load_wms_layer(layer){
 		
 	});
 	return wms_layer
+}
+
+
+var geojsonMarkerOptions = {
+	radius: 8,
+	fillColor: "#ff7800",
+	weight: 1,
+	opacity: 1,
+	fillOpacity: 0.8
+};
+
+var content = "<div> <img src='data/zzzoOP-ywL6dy1rUFxXYmw.png' height=200px width=200px></div>"
+function load_ndvi_layer(path) {
+	setTimeout(async () => {
+	 $.getJSON(path,function(data){
+    window.ndvi_index = L.geoJSON(data, {
+				pointToLayer: function (feature, latlng) {
+					color = { color: get_color(feature.properties.ndvi), fillColor: get_color(feature.properties.ndvi) } 
+					return L.circleMarker(latlng, { ...geojsonMarkerOptions, ...color });
+				},
+				coordsToLatLng: function(latlng) {
+					return L.latLng(latlng[0], latlng[1])
+				},
+				onEachFeature: function(feature, layer) {
+          // layer.bindPopup("NDVI Index: " + Number(feature.properties.ndvi).round(4));
+          layer.bindPopup(content);
+				}
+			})
+		console.log({ ndvi_index });
+		addLayerHandler('ndvi_index', ndvi_index);
+	}, 0);
+	
+	})
+}
+
+function get_color(x) {
+	return 	x < 0   ?   '#ffffff':
+			x < 0.15    ?   '#ffff66':
+			x < 0.3     ?   '#ffff00':
+			x < 0.45    ?   '#ff5050':
+							        '#ff0000';
 }
 
 

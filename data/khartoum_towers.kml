@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="khartoum_towers" id="khartoum_towers">
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>khartoum_towers</name>
+  <Placemark>
+	<name>1</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5706684</SimpleData>
+		<SimpleData name="longitude">32.5645432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5645432,15.5706684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6528639</SimpleData>
+		<SimpleData name="longitude">32.5647116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5647116,15.6528639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6661899</SimpleData>
+		<SimpleData name="longitude">32.5641355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5641355,15.6661899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6268767</SimpleData>
+		<SimpleData name="longitude">32.5667162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5667162,15.6268767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6513161</SimpleData>
+		<SimpleData name="longitude">32.565959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.565959,15.6513161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6304504</SimpleData>
+		<SimpleData name="longitude">32.5613716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5613716,15.6304504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6358184</SimpleData>
+		<SimpleData name="longitude">32.5619178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5619178,15.6358184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6268293</SimpleData>
+		<SimpleData name="longitude">32.5624421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5624421,15.6268293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6282709</SimpleData>
+		<SimpleData name="longitude">32.5611664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5611664,15.6282709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6631943</SimpleData>
+		<SimpleData name="longitude">32.5629724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5629724,15.6631943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6606924</SimpleData>
+		<SimpleData name="longitude">32.5633989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5633989,15.6606924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6331211</SimpleData>
+		<SimpleData name="longitude">32.5616515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5616515,15.6331211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.647441</SimpleData>
+		<SimpleData name="longitude">32.5653404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5653404,15.647441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6505455</SimpleData>
+		<SimpleData name="longitude">32.5656929</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5656929,15.6505455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6412306</SimpleData>
+		<SimpleData name="longitude">32.5624277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5624277,15.6412306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6439141</SimpleData>
+		<SimpleData name="longitude">32.5627135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5627135,15.6439141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6268626</SimpleData>
+		<SimpleData name="longitude">32.5643221</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5643221,15.6268626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.653086</SimpleData>
+		<SimpleData name="longitude">32.5676921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5676921,15.653086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6550666</SimpleData>
+		<SimpleData name="longitude">32.564356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.564356,15.6550666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6498797</SimpleData>
+		<SimpleData name="longitude">32.56524</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.56524,15.6498797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6580192</SimpleData>
+		<SimpleData name="longitude">32.5638523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5638523,15.6580192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.583592</SimpleData>
+		<SimpleData name="longitude">32.5091564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5091564,15.583592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5864099</SimpleData>
+		<SimpleData name="longitude">32.5086829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5086829,15.5864099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5886816</SimpleData>
+		<SimpleData name="longitude">32.5078305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5078305,15.5886816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5909597</SimpleData>
+		<SimpleData name="longitude">32.5069694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5069694,15.5909597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5930988</SimpleData>
+		<SimpleData name="longitude">32.5061577</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5061577,15.5930988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5954605</SimpleData>
+		<SimpleData name="longitude">32.5052333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5052333,15.5954605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.597871</SimpleData>
+		<SimpleData name="longitude">32.5043202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5043202,15.597871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6013675</SimpleData>
+		<SimpleData name="longitude">32.5004847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5004847,15.6013675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6016335</SimpleData>
+		<SimpleData name="longitude">32.4962347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.4962347,15.6016335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6016335</SimpleData>
+		<SimpleData name="longitude">32.4978524</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.4978524,15.6016335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6028333</SimpleData>
+		<SimpleData name="longitude">32.5020001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5020001,15.6028333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6029885</SimpleData>
+		<SimpleData name="longitude">32.5015498</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5015498,15.6029885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6385135</SimpleData>
+		<SimpleData name="longitude">32.5621798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5621798,15.6385135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6455774</SimpleData>
+		<SimpleData name="longitude">32.5639537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5639537,15.6455774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5205336</SimpleData>
+		<SimpleData name="longitude">32.5636479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5636479,15.5205336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.521042</SimpleData>
+		<SimpleData name="longitude">32.566869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.566869,15.521042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4479407</SimpleData>
+		<SimpleData name="longitude">32.506131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.506131,15.4479407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4503463</SimpleData>
+		<SimpleData name="longitude">32.5057254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5057254,15.4503463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4596198</SimpleData>
+		<SimpleData name="longitude">32.5077552</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5077552,15.4596198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.472362</SimpleData>
+		<SimpleData name="longitude">32.5106152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5106152,15.472362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4872045</SimpleData>
+		<SimpleData name="longitude">32.5043989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5043989,15.4872045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.490204</SimpleData>
+		<SimpleData name="longitude">32.5032243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5032243,15.490204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4999919</SimpleData>
+		<SimpleData name="longitude">32.5022658</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5022658,15.4999919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5030963</SimpleData>
+		<SimpleData name="longitude">32.5011674</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5011674,15.5030963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.506799</SimpleData>
+		<SimpleData name="longitude">32.5010994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5010994,15.506799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5084824</SimpleData>
+		<SimpleData name="longitude">32.5032798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5032798,15.5084824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5090082</SimpleData>
+		<SimpleData name="longitude">32.5033021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5033021,15.5090082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6513238</SimpleData>
+		<SimpleData name="longitude">32.5653891</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5653891,15.6513238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6516345</SimpleData>
+		<SimpleData name="longitude">32.5649482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5649482,15.6516345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4690925</SimpleData>
+		<SimpleData name="longitude">32.5098605</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5098605,15.4690925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4658143</SimpleData>
+		<SimpleData name="longitude">32.5091562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5091562,15.4658143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4565444</SimpleData>
+		<SimpleData name="longitude">32.5070864</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5070864,15.4565444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4534657</SimpleData>
+		<SimpleData name="longitude">32.5064129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5064129,15.4534657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4416465</SimpleData>
+		<SimpleData name="longitude">32.5071645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5071645,15.4416465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4447956</SimpleData>
+		<SimpleData name="longitude">32.5066474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5066474,15.4447956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4627124</SimpleData>
+		<SimpleData name="longitude">32.508432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.508432,15.4627124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4384595</SimpleData>
+		<SimpleData name="longitude">32.5076878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5076878,15.4384595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6505113</SimpleData>
+		<SimpleData name="longitude">32.5651169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5651169,15.6505113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6693466</SimpleData>
+		<SimpleData name="longitude">32.5641497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5641497,15.6693466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6751159</SimpleData>
+		<SimpleData name="longitude">32.5641222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5641222,15.6751159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6783076</SimpleData>
+		<SimpleData name="longitude">32.5641012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5641012,15.6783076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6813431</SimpleData>
+		<SimpleData name="longitude">32.5640918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5640918,15.6813431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6848495</SimpleData>
+		<SimpleData name="longitude">32.5640807</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5640807,15.6848495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6879021</SimpleData>
+		<SimpleData name="longitude">32.5640715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5640715,15.6879021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6910403</SimpleData>
+		<SimpleData name="longitude">32.5640481</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5640481,15.6910403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6938203</SimpleData>
+		<SimpleData name="longitude">32.5640434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5640434,15.6938203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6971418</SimpleData>
+		<SimpleData name="longitude">32.5640237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5640237,15.6971418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.699727</SimpleData>
+		<SimpleData name="longitude">32.5640104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5640104,15.699727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7028794</SimpleData>
+		<SimpleData name="longitude">32.5640003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5640003,15.7028794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7052553</SimpleData>
+		<SimpleData name="longitude">32.5639914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5639914,15.7052553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7111613</SimpleData>
+		<SimpleData name="longitude">32.5639513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5639513,15.7111613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>73</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7129313</SimpleData>
+		<SimpleData name="longitude">32.5639576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5639576,15.7129313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7158393</SimpleData>
+		<SimpleData name="longitude">32.5639457</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5639457,15.7158393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7171742</SimpleData>
+		<SimpleData name="longitude">32.5624067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5624067,15.7171742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7182215</SimpleData>
+		<SimpleData name="longitude">32.5612038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5612038,15.7182215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>77</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7208325</SimpleData>
+		<SimpleData name="longitude">32.5616124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5616124,15.7208325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7235103</SimpleData>
+		<SimpleData name="longitude">32.5620656</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5620656,15.7235103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7261074</SimpleData>
+		<SimpleData name="longitude">32.5624933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5624933,15.7261074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7316011</SimpleData>
+		<SimpleData name="longitude">32.5626169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5626169,15.7316011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7316909</SimpleData>
+		<SimpleData name="longitude">32.5621422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5621422,15.7316909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>82</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4753174</SimpleData>
+		<SimpleData name="longitude">32.5093752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5093752,15.4753174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4782461</SimpleData>
+		<SimpleData name="longitude">32.5081602</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5081602,15.4782461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4811011</SimpleData>
+		<SimpleData name="longitude">32.5069615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5069615,15.4811011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>85</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4840208</SimpleData>
+		<SimpleData name="longitude">32.5057174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5057174,15.4840208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>86</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4935156</SimpleData>
+		<SimpleData name="longitude">32.5029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5029,15.4935156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.510414</SimpleData>
+		<SimpleData name="longitude">32.5023032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5023032,15.510414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>88</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5104744</SimpleData>
+		<SimpleData name="longitude">32.5027265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5027265,15.5104744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5111279</SimpleData>
+		<SimpleData name="longitude">32.5046309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5046309,15.5111279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>90</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5116971</SimpleData>
+		<SimpleData name="longitude">32.5082146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5082146,15.5116971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5121976</SimpleData>
+		<SimpleData name="longitude">32.5019887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5019887,15.5121976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>92</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5122376</SimpleData>
+		<SimpleData name="longitude">32.5116213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5116213,15.5122376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5127525</SimpleData>
+		<SimpleData name="longitude">32.5148642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5148642,15.5127525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>94</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5132712</SimpleData>
+		<SimpleData name="longitude">32.5181215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5181215,15.5132712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5137912</SimpleData>
+		<SimpleData name="longitude">32.5213739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5213739,15.5137912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>96</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5143141</SimpleData>
+		<SimpleData name="longitude">32.5246333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5246333,15.5143141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>97</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5148252</SimpleData>
+		<SimpleData name="longitude">32.5278648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5278648,15.5148252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>98</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5153346</SimpleData>
+		<SimpleData name="longitude">32.5310787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5310787,15.5153346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.515864</SimpleData>
+		<SimpleData name="longitude">32.5343491</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5343491,15.515864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5163771</SimpleData>
+		<SimpleData name="longitude">32.5376035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5376035,15.5163771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.516906</SimpleData>
+		<SimpleData name="longitude">32.5408787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5408787,15.516906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>102</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5174028</SimpleData>
+		<SimpleData name="longitude">32.5440555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5440555,15.5174028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5179349</SimpleData>
+		<SimpleData name="longitude">32.5473058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5473058,15.5179349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>104</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5184813</SimpleData>
+		<SimpleData name="longitude">32.5506695</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5506695,15.5184813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5186477</SimpleData>
+		<SimpleData name="longitude">32.5518123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5518123,15.5186477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5189518</SimpleData>
+		<SimpleData name="longitude">32.5537202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5537202,15.5189518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5194859</SimpleData>
+		<SimpleData name="longitude">32.5570709</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5570709,15.5194859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5200087</SimpleData>
+		<SimpleData name="longitude">32.5603527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5603527,15.5200087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>109</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7244739</SimpleData>
+		<SimpleData name="longitude">32.5573883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5573883,15.7244739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>110</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7247798</SimpleData>
+		<SimpleData name="longitude">32.5551103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5551103,15.7247798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7251054</SimpleData>
+		<SimpleData name="longitude">32.5527157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5527157,15.7251054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>112</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7268159</SimpleData>
+		<SimpleData name="longitude">32.5589389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5589389,15.7268159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>113</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.728791</SimpleData>
+		<SimpleData name="longitude">32.5625496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5625496,15.728791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>114</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7292612</SimpleData>
+		<SimpleData name="longitude">32.5605502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5605502,15.7292612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6912864</SimpleData>
+		<SimpleData name="longitude">32.5406251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5406251,15.6912864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>116</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6918363</SimpleData>
+		<SimpleData name="longitude">32.5377049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5377049,15.6918363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>117</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6921934</SimpleData>
+		<SimpleData name="longitude">32.5358095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5358095,15.6921934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>118</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6927683</SimpleData>
+		<SimpleData name="longitude">32.5330202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5330202,15.6927683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6931249</SimpleData>
+		<SimpleData name="longitude">32.5414808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5414808,15.6931249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>120</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6936813</SimpleData>
+		<SimpleData name="longitude">32.5283829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5283829,15.6936813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6950033</SimpleData>
+		<SimpleData name="longitude">32.5423741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5423741,15.6950033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>122</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6975133</SimpleData>
+		<SimpleData name="longitude">32.543145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.543145,15.6975133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>123</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7020485</SimpleData>
+		<SimpleData name="longitude">32.5444204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5444204,15.7020485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>124</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7061756</SimpleData>
+		<SimpleData name="longitude">32.5457256</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5457256,15.7061756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>125</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.708335</SimpleData>
+		<SimpleData name="longitude">32.5464422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5464422,15.708335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>126</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7103847</SimpleData>
+		<SimpleData name="longitude">32.5471092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5471092,15.7103847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>127</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7125154</SimpleData>
+		<SimpleData name="longitude">32.5481437</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5481437,15.7125154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>128</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7149135</SimpleData>
+		<SimpleData name="longitude">32.5492852</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5492852,15.7149135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>129</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7171667</SimpleData>
+		<SimpleData name="longitude">32.5503643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5503643,15.7171667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>130</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7199386</SimpleData>
+		<SimpleData name="longitude">32.5517177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5517177,15.7199386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>131</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5153366</SimpleData>
+		<SimpleData name="longitude">32.5014527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5014527,15.5153366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>132</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5185426</SimpleData>
+		<SimpleData name="longitude">32.5013505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5013505,15.5185426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>133</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5216619</SimpleData>
+		<SimpleData name="longitude">32.501294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.501294,15.5216619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>134</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5246074</SimpleData>
+		<SimpleData name="longitude">32.501204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.501204,15.5246074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>135</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5278469</SimpleData>
+		<SimpleData name="longitude">32.501514</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.501514,15.5278469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>136</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5310098</SimpleData>
+		<SimpleData name="longitude">32.5017938</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5017938,15.5310098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>137</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5331313</SimpleData>
+		<SimpleData name="longitude">32.5020138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5020138,15.5331313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>138</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5364595</SimpleData>
+		<SimpleData name="longitude">32.5023249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5023249,15.5364595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>139</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5395357</SimpleData>
+		<SimpleData name="longitude">32.5026065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5026065,15.5395357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>140</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5415609</SimpleData>
+		<SimpleData name="longitude">32.5028104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5028104,15.5415609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>141</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5425741</SimpleData>
+		<SimpleData name="longitude">32.5008101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5008101,15.5425741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>142</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5453093</SimpleData>
+		<SimpleData name="longitude">32.5006114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5006114,15.5453093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>143</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5479004</SimpleData>
+		<SimpleData name="longitude">32.5003407</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5003407,15.5479004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>144</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5502855</SimpleData>
+		<SimpleData name="longitude">32.5020541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5020541,15.5502855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>145</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5525611</SimpleData>
+		<SimpleData name="longitude">32.5036719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5036719,15.5525611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>146</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5572788</SimpleData>
+		<SimpleData name="longitude">32.507119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.507119,15.5572788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>147</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5594726</SimpleData>
+		<SimpleData name="longitude">32.5086949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5086949,15.5594726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>148</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5643599</SimpleData>
+		<SimpleData name="longitude">32.5122862</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5122862,15.5643599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>149</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5667478</SimpleData>
+		<SimpleData name="longitude">32.5107511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5107511,15.5667478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>150</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5676862</SimpleData>
+		<SimpleData name="longitude">32.5101101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5101101,15.5676862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>151</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5692767</SimpleData>
+		<SimpleData name="longitude">32.5108905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5108905,15.5692767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>152</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5700973</SimpleData>
+		<SimpleData name="longitude">32.511234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.511234,15.5700973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>153</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5744451</SimpleData>
+		<SimpleData name="longitude">32.510733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.510733,15.5744451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>154</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5785185</SimpleData>
+		<SimpleData name="longitude">32.5100459</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5100459,15.5785185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>155</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5806413</SimpleData>
+		<SimpleData name="longitude">32.509661</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.509661,15.5806413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>156</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5548985</SimpleData>
+		<SimpleData name="longitude">32.5053797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5053797,15.5548985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>157</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4968666</SimpleData>
+		<SimpleData name="longitude">32.5025719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5025719,15.4968666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>158</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5723508</SimpleData>
+		<SimpleData name="longitude">32.5109743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5109743,15.5723508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>159</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5618921</SimpleData>
+		<SimpleData name="longitude">32.5104728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5104728,15.5618921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>160</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.600462</SimpleData>
+		<SimpleData name="longitude">32.5033539</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5033539,15.600462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>161</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.576491</SimpleData>
+		<SimpleData name="longitude">32.5103879</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5103879,15.576491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>162</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6480837</SimpleData>
+		<SimpleData name="longitude">32.5638173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5638173,15.6480837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>163</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6721325</SimpleData>
+		<SimpleData name="longitude">32.5641364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5641364,15.6721325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>164</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7035996</SimpleData>
+		<SimpleData name="longitude">32.5449109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5449109,15.7035996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>165</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6997095</SimpleData>
+		<SimpleData name="longitude">32.5437626</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5437626,15.6997095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>166</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7224989</SimpleData>
+		<SimpleData name="longitude">32.5522122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5522122,15.7224989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>167</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.6524746</SimpleData>
+		<SimpleData name="longitude">32.56759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.56759,15.6524746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>168</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.578473</SimpleData>
+		<SimpleData name="longitude">32.5417576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5417576,15.578473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>169</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5587769</SimpleData>
+		<SimpleData name="longitude">32.5452805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5452805,15.5587769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>170</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5612833</SimpleData>
+		<SimpleData name="longitude">32.561591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.561591,15.5612833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>171</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5765609</SimpleData>
+		<SimpleData name="longitude">32.542226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.542226,15.5765609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>172</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5817881</SimpleData>
+		<SimpleData name="longitude">32.5413672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5413672,15.5817881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>173</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5727974</SimpleData>
+		<SimpleData name="longitude">32.5428414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5428414,15.5727974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>174</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5606632</SimpleData>
+		<SimpleData name="longitude">32.5576428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5576428,15.5606632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>175</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5594798</SimpleData>
+		<SimpleData name="longitude">32.5497598</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5497598,15.5594798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>176</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5598053</SimpleData>
+		<SimpleData name="longitude">32.5518895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5518895,15.5598053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>177</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5662185</SimpleData>
+		<SimpleData name="longitude">32.5627014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5627014,15.5662185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>178</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5601955</SimpleData>
+		<SimpleData name="longitude">32.5547728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5547728,15.5601955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>179</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5648617</SimpleData>
+		<SimpleData name="longitude">32.5439909</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5439909,15.5648617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>180</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5702673</SimpleData>
+		<SimpleData name="longitude">32.562047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.562047,15.5702673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>181</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5685413</SimpleData>
+		<SimpleData name="longitude">32.5623367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5623367,15.5685413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>182</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5600276</SimpleData>
+		<SimpleData name="longitude">32.5536865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5536865,15.5600276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>183</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5710295</SimpleData>
+		<SimpleData name="longitude">32.5668052</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5668052,15.5710295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>184</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5669037</SimpleData>
+		<SimpleData name="longitude">32.5437628</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5437628,15.5669037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>185</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.560981</SimpleData>
+		<SimpleData name="longitude">32.5596759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5596759,15.560981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>186</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5596477</SimpleData>
+		<SimpleData name="longitude">32.5508702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5508702,15.5596477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>187</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5599836</SimpleData>
+		<SimpleData name="longitude">32.5530026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5530026,15.5599836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>188</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.559286</SimpleData>
+		<SimpleData name="longitude">32.5484965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5484965,15.559286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>189</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5690713</SimpleData>
+		<SimpleData name="longitude">32.5433061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5433061,15.5690713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.560366</SimpleData>
+		<SimpleData name="longitude">32.5558108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5558108,15.560366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>191</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5612084</SimpleData>
+		<SimpleData name="longitude">32.544567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.544567,15.5612084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>192</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5605366</SimpleData>
+		<SimpleData name="longitude">32.5568891</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5568891,15.5605366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>193</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5638982</SimpleData>
+		<SimpleData name="longitude">32.5630716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5630716,15.5638982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>194</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5795806</SimpleData>
+		<SimpleData name="longitude">32.5416115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5416115,15.5795806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>195</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5590508</SimpleData>
+		<SimpleData name="longitude">32.5470212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5470212,15.5590508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>196</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5595883</SimpleData>
+		<SimpleData name="longitude">32.5448299</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5448299,15.5595883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>197</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5628507</SimpleData>
+		<SimpleData name="longitude">32.544283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.544283,15.5628507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>198</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.584041</SimpleData>
+		<SimpleData name="longitude">32.5401897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5401897,15.584041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>199</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.7111855</SimpleData>
+		<SimpleData name="longitude">32.547498</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.547498,15.7111855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>200</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.561617</SimpleData>
+		<SimpleData name="longitude">32.5635073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5635073,15.561617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>201</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5192264</SimpleData>
+		<SimpleData name="longitude">32.5554429</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5554429,15.5192264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.4556768</SimpleData>
+		<SimpleData name="longitude">32.5069155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5069155,15.4556768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>203</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5710949</SimpleData>
+		<SimpleData name="longitude">32.5429702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5429702,15.5710949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>204</name>
+	<ExtendedData><SchemaData schemaUrl="#khartoum_towers">
+		<SimpleData name="latitude">15.5745542</SimpleData>
+		<SimpleData name="longitude">32.5425362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5425362,15.5745542</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
