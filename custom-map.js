@@ -44,8 +44,8 @@ async function setupMap(wms_layer){
 function init_map(){
 	try {
 		
-		setupMap('mosaic_rio_colored')
-		load_towers("data/rio_towers.kml")
+	setupMap('mosaic_rio_colored')
+	load_towers("data/rio_towers.kml")
     load_lines("data/rio_paths.kml")
     load_ndvi_layer("data/rio_ndvi")
 	} catch(err) {
