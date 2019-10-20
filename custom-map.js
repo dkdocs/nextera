@@ -31,7 +31,7 @@ async function setupMap(wms_layer){
 	var baseMaps = {
 		"streets": streets,
 		"satellite": satellite,
-		"wms": wms
+		"ndvi": wms
 	};
 
 	streets.addTo(map)
