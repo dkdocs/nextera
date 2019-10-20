@@ -1,7 +1,9 @@
 window.map = L.map('map-container', {
 	center: [-22.821841, -43.385654], 
 	zoom: 17
-})
+});
+window.distribution_lines = null;
+window.utilityPoles = null;
 
 async function setupMap(wms_layer){
 
@@ -206,23 +208,22 @@ var geojsonMarkerOptions = {
 	fillOpacity: 0.8
 };
 
-var content = "<div> <img src='data/zzzoOP-ywL6dy1rUFxXYmw.png' height=200px width=200px></div>"
+
 function load_ndvi_layer(path) {
 	setTimeout(async () => {
 	 $.getJSON(path,function(data){
-    window.ndvi_index = L.geoJSON(data, {
-				pointToLayer: function (feature, latlng) {
-					color = { color: get_color(feature.properties.ndvi), fillColor: get_color(feature.properties.ndvi) } 
-					return L.circleMarker(latlng, { ...geojsonMarkerOptions, ...color });
-				},
-				coordsToLatLng: function(latlng) {
-					return L.latLng(latlng[0], latlng[1])
-				},
-				onEachFeature: function(feature, layer) {
-          // layer.bindPopup("NDVI Index: " + Number(feature.properties.ndvi).round(4));
-          layer.bindPopup(content);
-				}
-			})
+    	window.ndvi_index = L.geoJSON(data, {
+			pointToLayer: function (feature, latlng) {
+				color = { color: get_color(feature.properties.ndvi), fillColor: get_color(feature.properties.ndvi) } 
+				return L.circleMarker(latlng, { ...geojsonMarkerOptions, ...color });
+			},
+			coordsToLatLng: function(latlng) {
+				return L.latLng(latlng[0], latlng[1])
+			},
+			onEachFeature: function(feature, layer) {
+				layer.bindPopup("NDVI Index: " + Number(feature.properties.ndvi).round(4));
+			}
+		});
 		console.log({ ndvi_index });
 		addLayerHandler('ndvi_index', ndvi_index);
 	}, 0);
@@ -241,3 +242,66 @@ function get_color(x) {
 
 
 
+function load_poles() {
+	return new Promise((resolve, reject) => {
+		path = 'data/florida_poles.geo_json'
+		$.getJSON(path, function (data){
+		  	const utilityPoles = L.geoJSON(data, {
+				pointToLayer: function (feature, latlng) {
+					return L.circleMarker(latlng);
+				},
+				coordsToLatLng: function(latlng) {
+					return L.latLng(latlng[0], latlng[1])
+				},
+				onEachFeature: function(feature, layer) {
+					let content = `<div>
+									<img src="https://nexterademo.s3.amazonaws.com/${feature.properties.image_id}-resize.jpg" height=400px width=400px>
+									</div>`;
+					// layer.bindPopup("NDVI Index: " + Number(feature.properties.ndvi).round(4));
+					layer.bindPopup(content, {
+						maxWidth: "auto"
+					});
+				}
+			});
+
+			resolve(utilityPoles);
+		});
+	});
+}
+
+
+$(document).ready(function () {
+  $("#utility_poles").click(async function(event){
+    event.preventDefault();
+	// clear_map()
+	if (window.utilityPoles) {
+		remove_layer(window.utilityPoles);
+		window.utilityPoles = null;
+	} else {
+		const utilityPoles = await load_poles();
+		window.utilityPoles = utilityPoles;
+		map.setView([25.827516, -80.347701], 17);
+	 
+		add_layer(utilityPoles)
+	}
+
+    // map.set(new L.LatLng(25.827516, -80.347701));
+  
+  })
+})
+
+
+$(document).ready(function () {
+	$("#distribution_lines").click(async function(event){
+		if (window.distribution_lines) {
+			remove_layer(window.distribution_lines);
+			window.distribution_lines = null;
+		} else {
+			const distribution_lines = await load_kml("data/florida_paths.kml");
+			window.distribution_lines = distribution_lines;
+			map.setView([25.827516, -80.347701], 17);
+		 
+			add_layer(distribution_lines)
+		}
+	})
+  })
