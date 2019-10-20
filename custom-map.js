@@ -280,7 +280,7 @@ $(document).ready(function () {
 	} else {
 		const utilityPoles = await load_poles();
 		window.utilityPoles = utilityPoles;
-		map.setView([26.544309, -80.606689], 17);
+		map.setView([26.536422, -80.695415], 15);
 	 
 		add_layer(utilityPoles)
 	}
@@ -297,7 +297,7 @@ $(document).ready(function () {
 		} else {
 			const distribution_lines = await load_kml("data/florida_paths.kml");
 			window.distribution_lines = distribution_lines;
-			map.setView([26.544309, -80.606689], 17);
+			map.setView([26.536422, -80.695415], 15);
 		 
 			add_layer(distribution_lines)
 		}
